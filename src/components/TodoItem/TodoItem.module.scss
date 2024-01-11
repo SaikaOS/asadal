@@ -1,0 +1,18 @@
+.app {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 700px;
+    background-color: rgba(#E91E63, .2);
+    margin-bottom: 30px;
+    border-radius: 10px;
+    padding: 0 10px;
+    height: auto;
+}
+
+.btns {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 200px;
+}
